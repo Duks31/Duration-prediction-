@@ -5,4 +5,3 @@ Kubernetes Yaml file and Docker Yaml file in it.
 
 Docker Hub link: https://hub.docker.com/repository/docker/chidubem/duration_app
 
-_First Docker test_ 
